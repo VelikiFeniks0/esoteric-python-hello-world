@@ -81,3 +81,16 @@ for _______ in ________:
 
 that part of code imports os and writes character by character on one line from the list of ASCII characters we made earlier.
 and now just put some arguments to make it work
+```py
+(str({}.__iter__()),
+       (True << ((True|True+True)))+(True^False),
+       ((True << True) << ((True << True)+True)) - ((True << True) << True),
+       True,
+       _____=____________+_____________+______________+_______________*(True << True),
+       ______=_________
+       )
+```
+And that's all. That's how it works.
+
+
+Also it's public domain.
